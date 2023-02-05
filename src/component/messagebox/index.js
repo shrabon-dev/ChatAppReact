@@ -341,15 +341,8 @@ uploadTask.on('state_changed',
                 <p className='text-xs font-nunito text-gray-500 font-normal mt-1'>{moment(item.date, "YYYYMMDD hh:mm").fromNow()}</p>
                 </div>
               )
-
-        
             )
-
-       
-       
        ))
-
-
         )
        
        : 
